@@ -1,0 +1,40 @@
+@font-face {
+    font-family:"katerlin" ;
+    src: url(./font/Katerlin-51zjB.ttf);
+}
+@font-face {
+    font-family: "greyqe";
+    src: url(./font/GreyQo-Regular.ttf);
+}
+
+
+.nidhi{
+
+    font-size:43px;
+    font-weight: 400;
+    color:  #2E236C;
+    text-align: center;
+    font-family:"katerlin" ;
+    text-transform: uppercase;
+}
+
+.jensi{
+
+    font-size:34px;
+    font-weight: 400;
+    color:  #7FA1C3;
+    text-align: left;
+    font-family:  "greyqe";
+    text-transform: uppercase;
+    text-indent: 400px;
+}
+
+.iam{
+    font-size:50px;
+    font-weight: 400;
+    color:  #2E236C;
+    text-align: center;
+    font-family:"katerlin" ;
+    text-transform: uppercase;
+    background-color: #7FA1C3;
+}

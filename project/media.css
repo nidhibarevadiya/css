@@ -1,0 +1,340 @@
+@media only screen and (max-width:1440px){
+    .bgimg{
+        height: 120vh;
+    }
+  
+
+.imgbox {
+    width: 10%;
+    margin: 0 auto;
+    position: absolute;
+    vertical-align: middle;
+    right: 500px;
+    top: 100px;
+}
+.button {
+    background-color: #00bbf0;
+    color: aliceblue;
+    height: 40px;
+    width: 130px;
+    margin: 70px;
+    position: absolute;
+   left: 41%;
+    border-radius: 15px;
+}
+.text {
+    width: 40%;
+    position: absolute;
+    top: 200px;
+    left: 100px;
+    color: aliceblue;
+}
+.aboutus {
+    height: 160vh;
+    width: 100%;
+    position: relative;
+    top: 150px;
+    background-color: #00204a;
+}
+.imgabout {
+    position: absolute;
+    left: 110px;
+    top: 150px;
+}
+.text1 {
+    width: 40%;
+    position: absolute;
+    top: 270px;
+    left: 810px;
+    color: aliceblue;
+    font-size: 21px;
+}
+.why {
+    text-align: center;
+    padding-top: 100px;
+    height: 240vh;
+    width: 100%;
+}
+.cb1 {
+    background-color: #00bbf0;
+    color: aliceblue;
+    height: 40px;
+    width: 130px;
+    position: absolute;
+    right: 650px;
+    border-radius: 15px;
+}
+.footer {
+    height: 70vh;
+    width: 100%;
+    margin-top: 90px;
+    background-color: #00204a;
+    color: aliceblue;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+}
+
+
+
+/* 1024 */
+
+
+
+
+@media only screen and (max-width:1024px){
+    .bgimg{
+        height: 120vh;
+    }
+  
+
+.imgbox {
+    width: 280px;
+   
+    position: absolute;
+    vertical-align: middle;
+    right: 300px;
+    top: 90px;
+}
+
+.text {
+    width: 30%;
+    position: absolute;
+    top: 150px;
+    left: 100px;
+    color: aliceblue;
+    
+}
+.contener3 {
+    background-color: rgba(0, 0, 0, 0.103);
+    position: relative;
+    width: 300px;
+    height: 350px;
+    border-radius: 5%;
+}
+
+.imgabout {
+   width: 440px;
+   height: 500px;
+   left: 50px;
+   top: 160px;  
+}
+.imim1{
+    width: 400px;
+    height: 500px;
+}
+.why {
+        text-align: center;
+        padding-top: 100px;
+        height: 230vh;
+        width: 100%;
+    }
+    .imim{
+        width: 400px;
+        height: 400px;
+    }
+.text1 {
+    width: 30%;
+    position: absolute;
+    top: 200px;
+    left: 650px;
+    color: aliceblue;
+    font-size: 16px;
+}
+.cb1 {
+    background-color: #00bbf0;
+    color: aliceblue;
+    height: 40px;
+    width: 130px;
+    position: absolute;
+    right: 440px;
+    border-radius: 15px;
+}
+}
+
+
+
+
+/* 768 */
+
+@media only screen and (max-width:768px){
+    .imgbox {
+       
+        margin: 0 auto;
+        position: absolute;
+        vertical-align: middle;
+        right: 300px;
+        top: 100px;
+        width: 100px;
+    }
+    .bgimg {
+        height: 100vh;
+    }
+    .imim{
+        width: 350px;
+        height: 350px;
+    }
+    .text {
+        width: 38%;
+        position: absolute;
+        top: 210px;
+        left: 75px;
+        color: aliceblue;
+        font-size: 10px;
+    }
+    .texth {
+        font-size: 15px;
+    }
+    .textp {
+        font-size: 10px;
+    }
+    .textb {
+        background-color: #00bbf0;
+        color: aliceblue;
+        height: 45px;
+        width: 150px;
+        border-radius: 25px;
+        position: absolute;
+     
+    }
+    .contener3 {
+        background-color: rgba(0, 0, 0, 0.103);
+        position: relative;
+        width: 250px;
+        height: 350px;
+        border-radius: 5%;
+    }
+
+    .button {
+        background-color: #00bbf0;
+        color: aliceblue;
+        height: 40px;
+        width: 130px;
+        margin: 70px;
+        position: absolute;
+        left: 35%;
+        border-radius: 15px;
+    }
+    .imim1{
+        width: 400px;
+        height: 500px;
+    }
+    .imgabout {
+        width: 440px;
+        height: 500px;
+        left: 50px;
+        top: 240px;
+    }
+    .text1 {
+        width: 30%;
+        position: absolute;
+        top: 220px;
+        left: 500px;
+        color: aliceblue;
+        font-size: 15px;
+    }
+    .cb1 {
+        background-color: #00bbf0;
+        color: aliceblue;
+        height: 40px;
+        width: 130px;
+        position: absolute;
+        right: 310px;
+        border-radius: 15px;
+    }
+    
+       
+        .why {
+            text-align: center;
+            padding-top: 100px;
+            height: 255vh;
+            width: 100%;
+        }
+       .footer {
+            height: 70vh;
+            width: 100%;
+            margin-top: 90px;
+            background-color: #00204a;
+            color: aliceblue;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 20px;
+        }
+}
+
+
+
+
+@media only screen and (max-width:425px){
+    .header {
+        width: 100%;
+        height: 60px;
+        padding-top: 25px;
+        display: flex;
+        align-items: center;
+        justify-content: space-around;
+        font-size: 10px;
+    }
+    .headerlogo {
+        max-width: 100px;
+        height: 55px;
+        color: aliceblue;
+        font-size: 18px;
+        padding-top: 15px;
+    }
+
+    .headermenu {
+        display: flex;
+        gap: 10px;
+        list-style: none;
+        color: white;
+        font-size: 10px;
+    }
+    .menuitem a{
+        font-size: 10px;
+        color: aliceblue;
+       
+        text-decoration: none;
+        text-transform: uppercase;
+        letter-spacing: 1px;
+      
+    }
+    .bgimg {
+        height: 160vh;
+        position: relative;
+    }
+
+    .imim {
+        width: 350px;
+        height: 350px;
+position: absolute;
+top: 0%;
+    }
+    .imgbox {
+        margin: 0 auto;
+        position: absolute;
+        vertical-align: middle;
+        right: 300px;
+        top: 50px;
+        width: 100px;
+    }
+    .text {
+        width:300px0;
+        position: absolute;
+        top: 400px;
+        left: 73px;
+        color: aliceblue;
+        font-size: 27px;
+    }
+    .texth {
+        font-size: 20px;
+    }
+
+.textp {
+    font-size: 13px;
+}
+}
+
+

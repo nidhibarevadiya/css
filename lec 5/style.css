@@ -1,0 +1,11 @@
+ .fram ,.framim{
+    width: 700px;
+    height: 700px;
+    object-fit: contain;
+    object-position: center;
+    margin: auto;
+} 
+.n::first-letter{
+font-size: 67px;
+color:chartreuse
+}

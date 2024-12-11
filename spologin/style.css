@@ -1,0 +1,122 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: rgb(107, 107, 107);
+    background: linear-gradient(rgba(0, 0, 0, 0.541),rgba(0, 100, 0, 0.596),rgba(255, 255, 255, 0.212));
+
+}
+
+.h{
+    background-color: black;
+    width: 100%;
+    height: 100px;
+}
+.ic{
+    color: rgba(1, 126, 38, 0.829);
+    padding: 35px;
+}
+
+.di{
+    background-color: rgba(0, 0, 0, 0.918);
+    height: 800px;
+    width: 600px;
+    margin: auto;
+    position: relative;
+}
+.h11{
+    color: aliceblue;
+    text-align: center;
+    padding: 50px;
+    
+}
+.g{
+    width: 300px;
+    height: 40px;
+    color: aliceblue;
+    text-align: center;
+   top: 150px;
+   left: 150px;
+    border: 2px solid white;
+    border-radius: 100px;
+    box-sizing: border-box;
+    position: absolute;
+}
+
+.f{
+    width: 300px;
+    height: 40px;
+    color: aliceblue;
+    text-align: center;
+   top: 200px;
+   left: 150px;
+    border: 2px solid white;
+    border-radius: 100px;  
+    box-sizing: border-box;
+    position: absolute;
+
+   
+}
+.a{
+    width: 300px;
+    height: 40px;
+    color: aliceblue;
+    text-align: center;
+   top: 249px;
+   left: 150px;
+    border: 2px solid white;
+    border-radius: 100px;
+    box-sizing: border-box;
+   position: absolute;
+}
+.ic1{
+   
+    padding: 10px;
+    
+}
+.hr1{
+    position: absolute;
+    top: 255px;
+}
+.fo{
+    position: absolute;
+    top: 350px;
+    left: 110px;
+    padding: 10px;
+    color: aliceblue;
+}
+
+.lo{
+    width: 300px;
+    height: 40px;
+    text-align: center;
+    top: 180px;
+    left: 40px;
+     border: 2px solid rgb(3, 158, 62);
+     border-radius: 100px;
+     box-sizing: border-box;
+    position: absolute;
+    background-color: darkgreen;
+    color: black;
+    font-size: 22px;
+}
+
+.p{
+   
+    position: absolute;
+    bottom: 5%;
+    color: aliceblue;
+    left: 170px;
+}
+.ic2{
+    color: darkgreen;
+}
+
+.ic2:hover{
+
+    color: white;
+}
+.a1{
+    position: absolute;
+   bottom: 150px;
+    left: 230px;
+    color: aliceblue;
+}

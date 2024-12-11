@@ -1,0 +1,28 @@
+.img{
+    height: 100vh;
+    background: url("./img/banner.jpeg");
+}
+.n1{
+    text-indent: 300px;
+    font-size: 42px;
+    color: #399918;
+}
+
+.n3{
+    text-indent: 300px;
+    font-size: 42px;
+    color: #000000;
+}
+
+.n4{
+    text-indent: 300px;
+    font-size: 42px;
+    color: #000000;
+    padding: 100px;
+    border: 5px dotted #000000;
+    margin: 20px;
+    box-sizing: border-box;
+   
+
+}
+

@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Grey+Qo&display=swap');
+
+.nidhi {
+
+    font-size: 23px;
+    font-weight: 400;
+    color: #760916;
+    text-align: left;
+    font-family: "Gupter", serif;
+    text-transform: uppercase;
+    line-height: 30px;
+    word-spacing: 10px;
+    letter-spacing: 2px;
+    text-decoration: dotted;
+    font-style: italic;
+    text-indent: 400px;
+}
+
+.jensi {
+    font-size: 43px;
+    font-weight: 400;
+    color: #2E236C;
+    text-align: center;
+    font-family: "Grey Qo", cursive;
+    text-transform: uppercase;
+}

@@ -1,0 +1,33 @@
+.box{
+    height: 377px;
+    width: 378px;
+    border: 2px solid black;
+  
+    margin: auto;
+}
+
+.black{
+    height: 50px;
+    width: 50px;
+    background-color: black;
+    float: left;
+}
+.white{
+    height: 50px;
+    width: 50px;
+    background-color: white;
+    float: left;
+}
+.ib{
+    font-size: 30px;
+    color: aliceblue;
+    box-sizing: border-box;
+    padding: 7px 00 00 9px;
+  
+}
+.i{
+   font-size: 30px;
+    float: center;
+    box-sizing: border-box;
+    padding: 7px 00 00 9px;
+}

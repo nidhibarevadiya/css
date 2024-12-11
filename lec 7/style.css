@@ -1,0 +1,48 @@
+.demo{
+    height: 100vh;
+    width: 100%;
+    background-color: cadetblue;
+}
+
+.demo:hover{
+    background-color: blue;
+    cursor: pointer;
+    border: 2px solid;
+    transition: 2s;
+}
+
+.demo1{
+    font-size: 34px;
+    color: black;
+}
+
+.demo1:hover{
+    font-size: 40px;
+    color: white;
+    transform: scale(8,9);
+
+}
+
+
+.demo2{
+    font-size: 34px;
+    color: black;
+    
+}
+
+.demo2:hover{
+   transform: rotatex(50deg);
+
+}
+
+
+.demo3{
+    font-size: 34px;
+    color: black;
+  
+}
+
+.demo3:hover{
+    transform: skewX(67deg)
+   
+}

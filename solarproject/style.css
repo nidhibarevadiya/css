@@ -1,0 +1,279 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* header strat */
+
+header {
+    background-color:#000B58;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+    height: 100px;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.menu{
+display: flex;
+align-items: center;
+list-style: none;
+gap: 20px;
+
+}
+.menuitem a{
+    color: #fff;
+    text-decoration: none;
+   font-size: 20px;
+}
+/* header end */
+
+/* home start */
+
+.home{
+    width: 100%;
+    height: 90vh;
+    position: relative;
+}
+.benner1{
+    width: 100%;
+    height: 90vh;
+    background-image: url(./img/carousel-1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    filter: blur(5px);
+}
+
+
+.h11{
+    color: #fff;
+    font-size: 50px;
+    text-align: center;
+    position: absolute;
+    top: 150px;
+    left: 45%;
+   
+}
+.h12{
+    color:#fff;
+    font-size: 60px;
+    text-align: center;
+    position: absolute;
+    top: 250px;
+    left: 40%;
+}
+.but{
+    background-color: #000B58;
+    color: #fff;
+   height: 40px;
+   width: 180px;
+    font-size: 20px;
+    border-radius: 20px;
+    position: absolute;
+    top: 450px;
+    left: 48%;
+}
+
+    
+/* home end */
+/* about us start */
+
+.about{
+    width: 100%;
+    height: 70vh;
+ 
+    display: flex;
+   justify-content: center;
+    gap: 20px;
+    padding-top: 150px;
+}
+.abh2{
+    color:#009cff;
+    font-size: 60px;
+}
+.abh1{
+    color: #000B58;
+    font-size: 30px;
+}
+.abp{
+    color:black;
+    font-size: 20px;
+    
+}
+.but1{
+    background-color: #009cff;
+    color: #fff;
+   height: 40px;
+   width: 180px;
+    font-size: 20px;
+   border: none;
+}
+
+
+
+/* about us end */
+.bgimg{
+    width: 100%;
+    height: 65vh;
+    background: url(./img/bgn36a.jpg);
+    background-size: cover;
+    position: relative;
+  display: flex;
+justify-content: space-evenly;
+  gap: 35px;
+  padding-top: 150px;
+}
+
+.contener1{
+    width: 400px;
+    height: 400px;
+    background-color:yellow;
+   
+}
+.contener2{
+    width: 400px;
+    height: 200px;
+    background-color: blue;
+    
+}
+.contener3{
+    width: 400px;
+    height: 40px;
+    background-color: red;
+   
+}
+.bc1{
+    background :url(./img/vision.jpg);
+    background-size: cover;
+    width: 150px;
+    height: 150px;
+    border: 2px solid #fff;
+border-radius: 100px;
+position: absolute;  
+top: 75px; 
+left: 455px; 
+}
+.bc2{
+    background :url(./img/challenges.jpg);
+    background-size: cover;
+    width: 150px;
+    height: 150px;
+    border: 2px solid #fff;
+border-radius: 100px;
+position: absolute;  
+top: 75px;  
+left: 880px;
+}
+.bc3{
+    background :url(./img/contact_002.jpg);
+    background-size: cover;
+    width: 150px;
+    height: 150px;
+    border: 2px solid #fff;
+border-radius: 100px;
+position: absolute;  
+top: 75px;  
+right: 455px;
+}
+
+    .bch1{
+        font-size: 23px;
+            color: #000B58;
+         position: absolute;
+         top: 250px;
+         left: 486px;
+        }
+        .bch11{
+            font-size: 23px;
+                color: #000B58;
+             position: absolute;
+             top: 250px;
+             left: 930px;
+            }
+            .bch12{
+                font-size: 23px;
+                    color: #000B58;
+                 position: absolute;
+                 top: 250px;
+                 right: 447px;
+                }
+                .line{
+                    width: 200px;
+                    background-color: #f6ba18;
+                    height: 3px;
+                    position: absolute;
+                    top: 300px;
+                    left: 430px;
+                }
+                .line1{
+                    width: 200px;
+                    background-color: #f6ba18;
+                    height: 3px;
+                    position: absolute;
+                    top: 300px;
+                    left: 860px;
+                }
+                .line2{
+                    width: 200px;
+                    background-color: #f6ba18;
+                    height: 3px;
+                    position: absolute;
+                    top: 300px;
+                    right: 420px;
+                }
+                .bcp{
+                    color:black;
+                    font-size: 20px;
+                    position: absolute;
+                    top: 330px;
+                    left: 370px;
+                    text-align: center;
+                }
+                .bcp1{
+                    color:black;
+                    font-size: 20px;
+                    position: absolute;
+                    top: 330px;
+                    left: 800px;
+                    text-align: center;
+                }
+                .bcp2{
+                    color:black;
+                    font-size: 20px;
+                    position: absolute;
+                    top: 330px;
+                    right: 380px;
+                    text-align: center;
+                }
+
+    .project{
+        width: 100%;
+        height: 60vh;
+        display: flex;
+        
+        gap: 30px;
+        padding-top: 150px;
+    }
+    .pimg{
+       width: 60%;
+       height: 60vh;
+       gap: 30px;
+       padding-right: 30px;
+    }
+
+    .pph1{
+        color: #000B58;
+        font-size: 40px;
+       
+        padding-left: 50px;
+    }
+    .ppp{
+        color: black;
+        font-size: 26px;
+        padding-left: 50px;
+    }
